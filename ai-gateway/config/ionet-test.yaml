@@ -24,6 +24,7 @@ routers:
                     # High-capacity reasoning models
                     - ionet/deepseek-ai/DeepSeek-R1-0528
                     - ionet/meta-llama/Llama-3.3-70B-Instruct
+                    - ionet/moonshotai/Kimi-K2-Thinking
 
                     # Multimodal models
                     - ionet/meta-llama/Llama-3.2-90B-Vision-Instruct
